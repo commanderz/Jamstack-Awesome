@@ -5,7 +5,6 @@
 [Olanetsoft](https://github.com/Olanetsoft/awesome-jamstack-resources)
 [BolajiAyodeji](https://github.com/BolajiAyodeji/awesome-jamstack)
 [automata](https://github.com/automata/awesome-jamstack)
-
 # Awesome-JAMstack
 > [JAMstack](https://jamstack.org/)
 
@@ -88,6 +87,7 @@
 - [Netlify Jamstack](https://www.netlify.com/jamstack/)
 - [Jamstack WTF](https://jamstack.wtf/)
 - [JAMstack tools](https://jamstacktools.org/)
+- [stackbit](https://www.stackbit.com/) `Stackbit: the best visual editor for headless CMS. Digital Experience Composition Platform. Site Builder.`
 
 ## Deployment Platforms
 - Vercel
@@ -113,6 +113,8 @@
 - [GraphQL editor](https://graphqleditor.com/)
 - [TakeShape](https://www.takeshape.io/) - `GraphQL API Mesh For The Headless Web`
 
+## learning resources
+- [jamstack training](https://jamstack.training/)
 
 
 
@@ -444,7 +446,6 @@ _For a more complete list see [Awesome Serverless](https://github.com/pmuens/awe
 
 
 
-
 # Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![](https://repository-images.githubusercontent.com/208843661/aa3deb80-6311-11ea-9d41-b2cdbbde72a9)
@@ -478,13 +479,14 @@ _For a more complete list see [Awesome Serverless](https://github.com/pmuens/awe
 
 ## Community
 
-* [JAMstack_conf](https://jamstackconf.com/)
-* [JAMstack chapters](https://jamstack.org/community/)
-* [Slack](https://jamstack.org/slack/)
-* [GitHub](https://github.com/jamstack/)
-* [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
+* [Jamstack Community](https://jamstack.org/community)
+* [Jamstack Discord Community](https://discord.gg/jamstack)
+* [Jamstack Conf](https://jamstackconf.com)
+* [Jamstack Conf on Twitter](https://twitter.com/jamstackconf)
 * [Jamstack_dev at Reddit](https://www.reddit.com/r/JAMstack_dev/)
 * [Jamstack at Linkedin](https://www.linkedin.com/groups/8722827/)
+* [GitHub](https://github.com/jamstack)
+* [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
 
 ## Useful Tools
 
@@ -616,20 +618,23 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
-    <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.fullstacktraining.com"><img src="https://avatars1.githubusercontent.com/u/2042718?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tamas Piros</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=tpiros" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=genesisgabiola" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=spekulatius" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/CookieDuster"><img src="https://avatars.githubusercontent.com/u/51830273?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CookieDuster</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=CookieDuster" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ludovic-armand"><img src="https://avatars.githubusercontent.com/u/77077373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ludovic Armand</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=ludovic-armand" title="Documentation">📖</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4?s=100" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4?s=100" width="100px;" alt="Derrick Reimer"/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4?s=100" width="100px;" alt="Ivan Bila"/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4?s=100" width="100px;" alt="Brian Rinaldi"/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4?s=100" width="100px;" alt="Derek Coleman"/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.fullstacktraining.com"><img src="https://avatars1.githubusercontent.com/u/2042718?v=4?s=100" width="100px;" alt="Tamas Piros"/><br /><sub><b>Tamas Piros</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=tpiros" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt="Genesis Gabiola"/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=genesisgabiola" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4?s=100" width="100px;" alt="Peter Thaleikis"/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=spekulatius" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CookieDuster"><img src="https://avatars.githubusercontent.com/u/51830273?v=4?s=100" width="100px;" alt="CookieDuster"/><br /><sub><b>CookieDuster</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=CookieDuster" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ludovic-armand"><img src="https://avatars.githubusercontent.com/u/77077373?v=4?s=100" width="100px;" alt="Ludovic Armand"/><br /><sub><b>Ludovic Armand</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=ludovic-armand" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.dsolemorera.com/"><img src="https://avatars.githubusercontent.com/u/3201518?v=4?s=100" width="100px;" alt="Dani"/><br /><sub><b>Dani</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=dsolemorera" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
@@ -644,7 +649,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
 
 
 
